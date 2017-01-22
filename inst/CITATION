@@ -1,0 +1,10 @@
+citHeader("To cite the SOFIA package in publications use:")
+citEntry(entry="Article",
+	title="SOFIA: an R package for enhancing genetic visualization with Circos",
+	author=as.person("Diaz-Garcia L., Covarrubias-Pazaran G., Schlautman B., Zalapa J."),
+	journal="Journal of Heredity",
+	year=2017,
+	volume=1,
+	pages="",
+textVersion=paste("Diaz-Garcia L., Covarrubias-Pazaran G., Schlautman B., Zalapa J. 2016. SOFIA: an R package for enhancing genetic visualization with Circos. TBA 1:1-10.")
+)

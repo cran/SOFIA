@@ -1,0 +1,7 @@
+importFrom("png","readPNG")
+importFrom("grid","grid.raster")
+importFrom("graphics", "hist")
+importFrom("utils", "combn")
+export(SOFIA)
+
+
